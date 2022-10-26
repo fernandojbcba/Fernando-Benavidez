@@ -1,4 +1,4 @@
-from turtle import clear
+
 
 
 potencia = 5 ** 3

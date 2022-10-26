@@ -1,4 +1,4 @@
-from xml.dom.minidom import Notation
+
 
 
 nota = int(input ("ingrese la nota  :"))
